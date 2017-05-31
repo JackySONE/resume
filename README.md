@@ -5,7 +5,6 @@ Personal detail about a Software Developer
 主要職責為
 - iOS Developer獨立開發與改版維運
 - 改版維運Android專案。
-次要工作
 - 協助規劃Mobile App專案的SA與SD文件。
 - 使用Ruby on Rails開發公司內部需求系統以及mobile介接用API
 
@@ -19,3 +18,8 @@ Personal detail about a Software Developer
 除了一般App專案維運時期以外，協助開發web後端系統，支援部門成員部分後勤事務。協助部門建立git-flow作為版本控管與自家server的code-review管理source code。
 
 目前最後一個專案是[iOS_App_章魚騷](https://goo.gl/kfXd2T)，此專案實際參與較為完整的軟體開發流程，從前期跟PM討論確認需求，測試可行性，設計後端資料庫與後台管理系統，規劃api以及第三方api(youtube)串接。中期製作輕量的SA與SD文件，評估開發時程，請同仁協助開發後端系統，自己首次嘗試測試先行並改用swift開發app。後期協助qa人員測試並調適bug等問題，最後順利重新大改版上架。
+
+# 社群連結
+- [LinkedIn](https://www.linkedin.com/in/yan-yu-lai-502428141/)
+- [Facebook](https://www.facebook.com/JackySONELai)
+- [Ptt](https://pttweb.tw/user/jacky3518)
